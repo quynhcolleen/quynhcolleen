@@ -6,20 +6,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@jinxftremusic" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="80" height="50" alt="youtube logo"  />
-  </a>
-  <a href="https://www.facebook.com/JinxFTRE/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="50" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/jinxftremusic/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">About me, myself & I 💗</h2>
 
 ###
@@ -61,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/96/e2/1b/96e21b696951775d7fffef9de0b88ef6.gif"  />
+  <img width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJxMmZmemtldTlram92NXFsZXZ2ODhsZWJuMTlod3Z0OTg2c3o5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjyZ703fK6CnTb8Tss/giphy.gif"/>
 </div>
 
 ###
