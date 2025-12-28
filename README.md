@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Messin' with stuff since 2023<br>🥹 Currently studying at Hanoi University of Science & Technology<br>👀 Majoring in Electronic & Telecommunication (I love coding tho)<br>🌸 A little naughty, a lot of enthusiasm!</p>
+✨ Messin' with stuff since 2023
+
+🥹 Currently studying at Hanoi University of Science & Technology
+
+👀 Majoring in Electronic & Telecommunication (I love coding tho)
+
+🌸 A little naughty, a lot of enthusiasm!
 
 ###
 
