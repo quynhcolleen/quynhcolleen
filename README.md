@@ -14,7 +14,7 @@
 
 🥹 Currently studying at Hanoi University of Science & Technology.
 
-👀 Majoring in Electronic & Telecommunication (I love coding tho).
+👀 Majoring in Electronic & Telecommunication (I love coding tho :D).
 
 🌸 A little naughty, a lot of enthusiasm!
 
