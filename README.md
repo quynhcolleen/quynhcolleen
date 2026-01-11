@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=quynhcolleen.quynhcolleen&left_color=slategrey&left_text=Visitors"  />
-</div>
-
-###
-
 <h2 align="left">All of my languages & tools:</h2>
 
 ###
