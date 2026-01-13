@@ -10,7 +10,7 @@
 
 ###
 
-✨ Messin' with stuff since 2023.
+✨ Messin' with stuff since 8/2023.
 
 🥹 Currently studying at Hanoi University of Science & Technology.
 
