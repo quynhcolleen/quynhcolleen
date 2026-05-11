@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Hoàng Nguyễn Như Quỳnh, a girl born in 2004 from Hanoi, Vietnam! A raver at her finest 😉</p>
+<p align="left">I am Hoàng Nguyễn Như Quỳnh, a girl born in 2004 from Hanoi, Vietnam! A raver at her finest 😉 Currently grinding some networking stuff and striving for the CCNP 🫵🏻</p>
 
 ###
 
